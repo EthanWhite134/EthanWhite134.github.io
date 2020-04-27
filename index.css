@@ -6,6 +6,7 @@ body{
     width: 100%;
     height: 100%;
     background: url('./file/img/bg.jpg');
+    min-width: 1000px;
 }
 
 body::after{
@@ -20,7 +21,7 @@ body::after{
 }
 
 .main{
-    width: 35%;
+    width: 600px;
     text-align: center;
     margin: auto;
     margin-top: 12%;
@@ -55,7 +56,7 @@ body::after{
     font-size: 30px;
     line-height: 70px;
     display: inline-block;
-    width: 45%;
+    width: 300px;
     height: 74px;
     margin: 0 auto;
     background-color: #fff;
